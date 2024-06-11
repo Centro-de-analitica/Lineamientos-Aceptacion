@@ -14,7 +14,7 @@ Gitflow es realmente sólo una idea abstracta de un flujo de trabajo de Git. Est
 
 ## Develop and Master Branch
 
-![Develop and Master Branch](/images/Imagen 1.svg)
+[Develop and Master Branch](/images/Imagen 1.svg)
 
 En lugar de un simple branch master, este workflow usa dos branch para registrar el historial del proyecto, El master branch almacena la historia de lanzamientos oficiales “official release history” y el branch develop sirve como un branch de integración por “características” features. También es conveniente etiquetar todos los commits en la rama master con un número de versión.
 Feature Branches

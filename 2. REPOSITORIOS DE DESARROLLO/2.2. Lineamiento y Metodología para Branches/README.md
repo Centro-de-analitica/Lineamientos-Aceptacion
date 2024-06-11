@@ -10,11 +10,13 @@ Esto proporciona un framework robusto para gestionar proyectos. Este modelo no a
 ## Iniciar
 Gitflow es realmente sólo una idea abstracta de un flujo de trabajo de Git. Esto significa que dicta qué tipo de branch establecer y cómo fusionarlas.
 
-'apt-get install git-flow'
+```bash
+apt-get install git-flow
+```
 
 ## Develop and Master Branch
 
-[Develop and Master Branch](/images/Imagen 1.svg)
+![Develop and Master Branch](/Lineamientos-Aceptacion/2. REPOSITORIOS DE DESARROLLO/2.2. Lineamiento y Metodología para Branches/Imagen 1.svg)
 
 En lugar de un simple branch master, este workflow usa dos branch para registrar el historial del proyecto, El master branch almacena la historia de lanzamientos oficiales “official release history” y el branch develop sirve como un branch de integración por “características” features. También es conveniente etiquetar todos los commits en la rama master con un número de versión.
 Feature Branches

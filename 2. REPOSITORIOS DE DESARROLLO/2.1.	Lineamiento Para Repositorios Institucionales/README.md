@@ -11,11 +11,17 @@ El nombre del proyecto corresponde al sistema o proyecto dentro de la organizaci
 
 ## Nombre del Contexto
 El contexto está dado por los siguientes dominio, se pueden agregar más dominios
-•	analitics
-•	cliente
-•	data
+
+-	analitics
+
+-	cliente
+
+-	data
 
 ## Ejemplos:
-hechos_analitics
-hechos _cliente
-hechos _data
+
+- hechos_analitics
+
+- hechos _cliente
+
+- hechos _data

@@ -1,4 +1,4 @@
-# Lineamientos-Aceptacion
+# Criterios-Aceptacion
 Criterios de aceptación de los entregables del proyecto
 
 Este documento es un conglomerado de buenas prácticas, lineamientos, configuraciones a realizar en el entorno de desarrollo de los equipos del proyecto del Centro de Analítica de Datos de la Defensoría de Pueblo.
